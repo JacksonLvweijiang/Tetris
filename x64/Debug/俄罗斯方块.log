@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\vs c++\Project1\俄罗斯方块\main.cpp(75,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(78,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(78,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(81,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(81,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(81,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(93,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(94,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(100,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(101,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs c++\Project1\俄罗斯方块\main.cpp(115,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  俄罗斯方块.vcxproj -> D:\vs c++\Project1\俄罗斯方块\x64\Debug\俄罗斯方块.exe
